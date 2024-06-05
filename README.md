@@ -1,6 +1,6 @@
 # Deep Neural Network Implementation
 
-This code implements a feedforward neural network with an arbitrary number of hidden layers, configurable activation functions, and support for both regression and classification tasks. The network is trained using backpropagation and gradient descent optimization.
+This code implements a feedforward neural network with an arbitrary number of hidden layers, configurable activation functions, and support for both regression and classification tasks. The network is trained using backpropagation and gradient descent optimization. This was made purely using numpy and other built in packages. 
 
 ## Key Features
 
