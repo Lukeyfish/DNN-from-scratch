@@ -1,6 +1,6 @@
 # Deep Neural Network Implementation
 
-This was a project for my machine learning class where were tasked in implementing a feedforward neural network with an arbitrary number of hidden layers, configurable activation functions, and support for both regression and classification tasks. The network is trained using backpropagation and gradient descent optimization. This was made <ins>only</ins> using numpy and other built in python packages in order to further understand DNN's at a higher level.
+This was a project for my machine learning class where were tasked in implementing a feedforward neural network with an arbitrary number of hidden layers, configurable activation functions, and support for both regression and classification tasks. The network is trained using backpropagation and gradient descent optimization. This was made <ins>only</ins> using numpy in order to further understand DNN's at a higher level.
 
 
 <div align="center">
