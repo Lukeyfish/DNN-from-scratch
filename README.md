@@ -2,6 +2,15 @@
 
 This was a project for my machine learning class where were tasked in implementing a feedforward neural network with an arbitrary number of hidden layers, configurable activation functions, and support for both regression and classification tasks. The network is trained using backpropagation and gradient descent optimization. This was made <ins>only</ins> using numpy and other built in python packages in order to further understand DNN's at a higher level.
 
+
+<div align="center">
+  <img align="center" src="https://lukedojan.com/images/DNN-animated.gif" alt="DNN">
+  <p style="text-align: center;"> 
+    Figure: DNN structure
+  </p>
+</div>
+
+
 ## Key Features
 
 - **Configurable Network Architecture**: The number of hidden layers, number of units in each hidden layer, and the activation function used for hidden layers can be specified as command-line arguments.
